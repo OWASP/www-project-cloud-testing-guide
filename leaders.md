@@ -1,3 +1,3 @@
 ### Leaders
 
-* [Stefano DiPaola](mailto://stefano@owasp.org)
+* [Stefano DiPaola](mailto:stefano@owasp.org)
