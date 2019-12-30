@@ -37,8 +37,8 @@ type: documentation
 <p><span style="color:#ff0000"></p>
 <p></span></p>
 <p></span></p>
-<p><a href="https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf">Presentation</a></p>
-<p><a href="https://www.owasp.org/images/a/aa/OWASPCloudTestingMar19.pdf">Presentation</a></p>
+<p><a href="/www-pdf-archive/OWASPCloudTestingMar19.pdf">Presentation</a></p>
+<p><a href="/www-pdf-archive/OWASPCloudTestingMar19.pdf">Presentation</a></p>
 <p><a href="https://github.com/OWASP/Cloud-Testing-Guide">GitHub</a></p>
 <p><a href="https://github.com/OWASP/Cloud-Testing-Guide">GitHub</a></p>
 <p><a href="https://www.owasp.org/index.php?title=OWASP_Cloud_Testing_Guide_Table_of_Contents">Wiki Home Page</a></p>
@@ -57,8 +57,8 @@ type: documentation
 <p></span></p>
 <ul>
 <ul>
-<li><a href="OWASP_Testing_Project" title="wikilink">OWASP_Testing_Project</a></li>
-<li><a href="OWASP_Testing_Project" title="wikilink">OWASP_Testing_Project</a></li>
+<li><a href="OWASP_Testing_Project" title=>OWASP_Testing_Project</a></li>
+<li><a href="OWASP_Testing_Project" title=>OWASP_Testing_Project</a></li>
 </ul></td>
 </ul></td>
 </tr>
@@ -73,7 +73,7 @@ __NOTOC__ <headertabs />
 __NOTOC__ <headertabs />
 
 
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP Project](Category:OWASP_Project "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP Project](Category:OWASP_Project )
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:OWASP_Document](Category:OWASP_Document )
